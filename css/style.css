@@ -1082,7 +1082,7 @@ ul.top_icon li a {
 }
 
 
-}
+
 .main-menu ul li:last-child a {
      padding-right: 0;
 }
@@ -1655,7 +1655,8 @@ font-weight: normal;
 .clothes_main{
      width: 100%; 
      float: left;
-     background-color: #081b30;
+     
+         
      height: auto;
      padding: 60px 0px;
 
@@ -1886,7 +1887,7 @@ img.zoom {
      margin: 0px;
 }
 form {
-     background: #081b30
+     background: #0f4e6b;
      padding: 35px 30px;
 }
 .map_section figure img {
@@ -2515,7 +2516,7 @@ border-radius: 10px;
 .header_main{
      width: 100%;
      float: left;
-     background-color: #136af8;
+     background-color: #cecece;
      padding-top: 20px;
 }
 
@@ -2580,7 +2581,7 @@ button.btn.btn-primary,button.btn.btn-primary:hover,button.btn.btn-primary:focus
 .product .titlepage h2 {color: #136af8;}
 .black {color:  #1A2980;  /* fallback for old browsers */
      color: -webkit-linear-gradient(to right, #26D0CE, #1A2980);  /* Chrome 10-25, Safari 5.1-6 */
-     color: linear-gradient(to right, #26D0CE, #1A2980); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */"}
+     color: linear-gradient(to right, #26D0CE, #1A2980); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
 .section_Clients .titlepage h2{
    padding: 0px 0px 0px 0px;
 font-size: 50px;
